@@ -2,7 +2,7 @@
 layout: post
 title: Tests and positivity rates
 ---
-The Covid positivity rate in Wisconsin is now higher than it's ever been. We are averaging more than 1200 cases a day, but with tests per day stuck at 10,000 or so.  We know cases are high largely because of college campus outbreaks, but why is our testing so low?
+The Covid positivity rate in Wisconsin is now higher than it's ever been. We are averaging 1800 cases a day, but with tests per day stuck at 10,000 or so.  We know cases are high largely because of college campus outbreaks, but why is our testing so low?
 
 ![WI cases and pos rate](/assets/PosRate_WI_2020-09-21.png)
 
