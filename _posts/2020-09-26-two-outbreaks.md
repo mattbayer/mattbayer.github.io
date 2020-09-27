@@ -8,7 +8,7 @@ But while this outbreak has possibly already peaked - at least at Madison, thoug
 
 As you look at the case map of the state, over time, the succession of these two outbreaks stands out. Below are screenshots of the [Journal Sentinel's map tracker](https://projects.jsonline.com/topics/coronavirus/tracking/covid-19-cases-testing-and-deaths-in-wisconsin.html), taken on September 14 and September 26. They show 7-day case counts, per population, by county. Two weeks ago counties with large colleges stood out strongly. Today, in late September, they stand out much less and Green Bay and the Fox Valley are clearly the epicenter.
 
-![Map 14-Sep](/assets/Map_Cases_Colleges_2020-09-14_1.png) ![Map 26-Sep](/assets/Map_Cases_2020-09-26_1.png)
+![Map 14-Sep](/assets/Map_Cases_2weeks_2020-09-26.png)
 
 The situation is worse when looking at hospitalizations. The Wisconsin DHS has a [hospital dashboard by region](https://www.dhs.wisconsin.gov/covid-19/hosp-data.html), which shows the number of currently hospitalized patients in 7 regions of the state. A screenshot of this dashboard is below. 
 
@@ -24,7 +24,7 @@ Finally, we can compare college counties and northeast counties directly. I pick
 
 These two aggregates have have very similar total populations, about 103,000 for both. In the plots below, which show average daily new cases and average daily new hospitalizations, respectively, the two collections of counties are labeled "Colleges" in Wisconsin red and white, and "Packerland" in green.
 
-![Two outbreaks - cases](/assets/TwoOutbreaks_Cases_2020-09-26.png){:width="40%"} ![Two outbreaks - hospitalizations](/assets/TwoOutbreaks_Hosp_2020-09-26.png){:width="40%"}
+![Two outbreaks - cases](/assets/TwoOutbreaks_CasesHosp_2020-09-26.png)
 
 For cases, the college counties shot up fast about three weeks ago, but have actually turned a corner recently and started coming back down. In Packerland, unfortunately, cases are still going up. The college counties also show a significant bump in July, when 20-somethings drove an earlier wave, that is not visible for the northeast.
 
