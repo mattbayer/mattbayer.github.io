@@ -24,7 +24,7 @@ Finally, we can compare college counties and northeast counties directly. I pick
 
 These two aggregates have have very similar total populations, about 103,000 for both. In the plots below, which show average daily new cases and average daily new hospitalizations, respectively, the two collections of counties are labeled "Colleges" in Wisconsin red and white, and "Packerland" in green.
 
-![Two outbreaks - cases](/assets/TwoOutbreaks_Cases_2020-09-27.png){:width="40%"} ![Two outbreaks - hospitalizations](/assets/TwoOutbreaks_Hosp_2020-09-27_1.png){:width="40%"}
+![Two outbreaks - cases](/assets/TwoOutbreaks_Cases_2020-09-26.png){:width="40%"} ![Two outbreaks - hospitalizations](/assets/TwoOutbreaks_Hosp_2020-09-26.png){:width="40%"}
 
 For cases, the college counties shot up fast about three weeks ago, but have actually turned a corner recently and started coming back down. In Packerland, unfortunately, cases are still going up. The college counties also show a significant bump in July, when 20-somethings drove an earlier wave, that is not visible for the northeast.
 
