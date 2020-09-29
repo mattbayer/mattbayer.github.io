@@ -32,6 +32,8 @@ The hospitalizations trend is even more consequential. The college counties show
 
 The college counties just might have gotten their outbreaks under control. We will see if that holds. The northeast is now more serious, and I hope it gets more attention.
 
+---
 
+**UPDATE**: Two days after this post, the Milwaukee Journal sentinel published [a story with very similar conclusions](https://www.jsonline.com/story/news/2020/09/28/wisconsin-coronavirus-green-bay-fox-valley-outbreaks-worsen/3562169001/), including evidence that hospital capacity in the northeast is starting to fill. 
 
 
