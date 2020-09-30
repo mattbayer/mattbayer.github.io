@@ -2,4 +2,5 @@
 layout: page
 title: Dashboard
 ---
-{% include_relative assets/plotly/Cases_WI_2020-09-28.html %}
+{% include_relative assets/plotly/Cases-Tests-WI.html %}
+{% include_relative assets/plotly/Deaths-Hosp-WI.html %}
