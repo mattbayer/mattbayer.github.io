@@ -1,16 +1,11 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:               Covid in Wisconsin
 tagline:             ''
 description:         'A blog for unique analysis of Covid data in Wisconsin.'
 url:                 https://test.covid-wisconsin.com
-baseurl:             /
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
 # About/contact
 author:
@@ -18,7 +13,14 @@ author:
   url:               https://twitter.com/MattBayer3
   email:             
 
-paginate:         5
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-relative-links
 
+# Options
+relative_links:
+  enabled:     true
+  collections: true 
 # Custom vars
 version:          2.1.0
