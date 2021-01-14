@@ -1,11 +1,13 @@
 # Setup
 title:               Covid in Wisconsin
 tagline:             ''
-description:         'A blog for unique analysis of Covid data in Wisconsin.'
-url:                 https://test.covid-wisconsin.com
+description:         'Amateur analysis of our local Covid data.'
+logo:                '/public/LogoCovidWI.png'
+url:                 https://covid-wisconsin.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+markdown:            kramdown
 
 # About/contact
 author:
@@ -17,6 +19,9 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-relative-links
+  
+# Google Analytics
+google_analytics: G-G84CM55HBV
 
 # Options
 relative_links:
