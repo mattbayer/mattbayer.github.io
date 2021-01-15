@@ -4,5 +4,21 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  
+  {% comment %}
+     The code below dynamically generates a nav of pages with
+    `layout: dashboard` in the front-matter.
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+  {% endcomment %}
+  
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+    {% if node.title != null %}
+      {% if node.layout == "dashboard" %}
+        <a href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
   {{ content }}
 </div>
