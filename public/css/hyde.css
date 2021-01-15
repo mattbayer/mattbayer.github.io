@@ -112,7 +112,7 @@ a.sidebar-nav-item:focus {
 
 /* Dashboard nav */
 .dashboard-nav-item {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 .dashboard-nav-item.active {
   font-weight: bold;
